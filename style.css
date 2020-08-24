@@ -19,7 +19,8 @@ h1 {
   .grid {
     display: flex; 
     flex-wrap: wrap; 
-    justify-content: space-between;
+    justify-content: space-between; 
+    width:200px;
   } 
 
   .footer {
@@ -34,6 +35,6 @@ h1 {
   }
   body {
   background-color: fuchsia;
-  background-image: url("b2.png");
+  background-image: url("b1.jpg");
   background-size: 100% 100%; 
   }
